@@ -22,7 +22,7 @@ We used our original dataset, which consists of a total of 5,757 photographs.
 
 
 
-## Is Ä±t a car?
+## Is it a car?
 
 | Data Sets                                   | Training | Validation |
 | :--------                                   | :------- | :--------- |
