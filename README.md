@@ -1,5 +1,7 @@
 # Car Damage Detection on VGG-16
 
+[![(article)](https://img.shields.io/badge/cs.CV-DOI%3A10.53608/estudambilisim.1421332.-B31B1B.svg)](https://dergipark.org.tr/en/pub/estudambilisim/issue/86200/1421332)
+
 For this we used a CNN model, VGG16[[1]](https://arxiv.org/abs/1409.1556). We used our own dataset that we had prepared and trained the VGG16 model ourselves. Our study consisted of 4 main questions:
 
 - Is it a car?
